@@ -1,1 +1,1 @@
-this is dhamu made commit madeded
+the trigger should be done automatically 
